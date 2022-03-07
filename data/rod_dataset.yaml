@@ -1,6 +1,6 @@
 path: ../datasets/rod_dataset/2022.02.22  # dataset root dir
-train: images
-val: images
+train: ready/train/images
+val: ready/val/images
 test:  # test images (optional)
 
 # Classes
